@@ -1,9 +1,94 @@
-.Background{
-    background-color: white;
+.Header{
+    background-color: #ffffff;
     position: absolute;
-    top: 0px;
-    height: 100px;
-    width: 1525px;
+    top: 0%;
+    height: 63px;
+    width: 100%;
+    
+}
+
+
+.title{
+    color: #ffffff;
+    background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+    top: 3;
+    left: 3;
+    padding: 13px;
+    margin: 0px;
+    text-align: center;
+    display: inline;
+    position: absolute;
+    margin-left: 22.80%;
+}
+
+.Wrapper{
+    margin-right: 22.80%; 
+}
+
+.index{
+    margin: 15px;
+
+}
+
+a{
+    float: right;
+    display: inline;
+    text-align: center
+}
+
+
+section{
+    
+    border: 1px solid #dddddd;
+    background-color: #ffffff;
+    padding-top: 0px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    height: 500px;
+    width: 800px;
+    margin: 70px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+h2{
+    position: relative;
+    height: 15px;
+    padding: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    font: 200;
+    float: left;
+    color: #4aaaa5;
+    font-size: 32px;
+}
+
+hr{
+    width: 100%;
+}
+
+.firstbox{
+    width: 99%;
+}
+
+.secondbox{
+    width: 99%;
+
+}
+
+textarea{
+    width: 99%;
+    height: 200px;
+}
+
+.submit{
+    color: #ffffff;
+    background-color: #4aaaa5;
+    
 }
 
 .footer {
@@ -18,3 +103,4 @@
     bottom:0;
     width:100%;
 }
+

@@ -20,7 +20,7 @@
     text-align: center;
     display: inline;
     position: absolute;
-    margin-left: 22.80%;
+    
 }
 
 .Wrapper{
@@ -129,7 +129,7 @@ hr{
 
 .tile4{
     padding: 21px;
-    margin: 8px;
+    margin: -21px;
     margin-right: 459px;
 }
 
